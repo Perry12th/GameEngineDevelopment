@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
+<<<<<<< Updated upstream:ogre-sdk-v2.1/build/PlugIns/CgProgramManager/Plugin_CgProgramManager.dir/Debug/Plugin_CgProgramManager_d.dll.recipe
   <ProjectOutputs>C:\Hooman\GBC\GAME3121\Course Materials\GameEngineDevelopment\ogre-sdk-v2.1\build\bin\Debug\Plugin_CgProgramManager_d.dll</ProjectOutputs>
+=======
+  <ProjectOutputs>F:\George Brown\Term 5\Engine Dev\GitHub\GameEngineDevelopment\OrgreTemplateV2\OrgreTemplateV2\x64\Debug\OrgreTemplateV2.exe</ProjectOutputs>
+>>>>>>> Stashed changes:OrgreTemplateV2/OrgreTemplateV2/x64/Debug/OrgreTemplateV2.exe.recipe
   <ContentFiles></ContentFiles>
   <SatelliteDlls></SatelliteDlls>
   <NonRecipeFileRefs></NonRecipeFileRefs>

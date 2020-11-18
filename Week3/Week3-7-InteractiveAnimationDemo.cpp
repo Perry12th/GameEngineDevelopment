@@ -197,7 +197,7 @@ void OgreTutorial::createFrameListener()
 	Ogre::FrameListener* FrameListener = new ExampleFrameListener(SinbadNode);
 	mRoot->addFrameListener(FrameListener);
 }
-
+ 
 int main(int argc, char** argv)
 {
 	try
